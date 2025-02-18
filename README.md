@@ -1,1 +1,3 @@
-# Fourier-Transform-repo
+# Fourier Transform
+
+Consider a square signal with a frequency of 100 Hz. Using Fourier transform, calculate the frequency spectrum of this signal. Derive the Fourier series coefficients of this signal. Display these coefficients as graphs and analyze their relationship with the Fourier transform or its spectrum. Then, using the synthesis formula, reconstruct the original signal using these coefficients. What effect does the number of Fourier coefficients that actually participate in the synthesis formula have on the convergence of the response? Perform a complete analysis and examination. (All execution steps should be carried out with the help of software and coding.)
